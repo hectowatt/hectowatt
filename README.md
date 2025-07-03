@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**hectowatt/hectowatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work using Java to develop my work.
 
-Here are some ideas to get you started:
+I'm interested in self-hosting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So I want to help people self-hosting through activities.
+
+## Skills
+### Programming Languages
+![](https://skillicons.dev/icons?i=java,ts)
+
+### OS and Hardware
+![](https://skillicons.dev/icons?i=linux,ubuntu)
+
+### Flameworks and Library
+![](https://skillicons.dev/icons?i=react,nextjs)
+
+### Tools
+![](https://skillicons.dev/icons?i=git,github,vim,md)
