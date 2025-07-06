@@ -2,7 +2,9 @@
 
 I work using Java to develop my work.
 
-I'm interested in self-hosting.
+Recently I've become interested in React and have been learning it.
+
+Also, I'm interested in self-hosting.
 
 So I want to help people self-hosting through activities.
 
